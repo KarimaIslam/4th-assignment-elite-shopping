@@ -107,7 +107,7 @@ body{
     color:rgba(255, 166, 0, 0.979); 
     letter-spacing: 8px;
 } 
-.btn{
+.text .btn , .footerimg .btn{
     background-color: #2FDAB8;
     color: white;
     padding: 9px 18px;
